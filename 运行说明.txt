@@ -1,0 +1,4 @@
+运行顺序：
+1. 运行sub_lgb_model.ipynb得到oof_lgb_1.csv
+2. sub_cat_model.ipynb得到oof_cat.csv
+2. ronghe_final.ipynb得到sub_ronghe_1.csv
